@@ -93,18 +93,7 @@ A C++ application developed to manage student records and evaluate academic perf
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asthakumari-data&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asthakumari-data&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthakumari-data&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
